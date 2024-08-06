@@ -17,20 +17,20 @@ const perguntas = [
             },
             {
                 texto: "Não, acredito que não tenha relação ",
-                afirmacao: " As enchentes também ocorrem naturalmente, independentemente da ação humana. As elaborações dos cursos d'ag."
+                afirmacao: " As enchentes também ocorrem naturalmente, independentemente da ação humana. As elaborações dos cursos d'água e as cheias são parte do ciclo natural dos rios."
             }
         ]
     },
     {
-        enunciado: "PERGUNTA 2",
+        enunciado: " você acha qua a partir do momento que a populaçaõ começar a contrubuir com a preservação da natureza, as enchentes irão parar de acontecer?",
         alternativas: [
             {
-                texto: "RESPOSTA 1",
-                afirmacao: "AFIRMATIVA RESPOSTA 1"
+                texto: " Sim, eu acho que irãõ parar",
+                afirmacao: " Se a população contribuir significativamente para a oreservação da natureza, as enchentes podem ser reduzidas. Medidas como:preservar matas, raissa,descartar corretamente residuos sólidose conservar áreas de água ajudam a prevenir enchentes."
             },
             {
-                texto: "RESPOSTA 2",
-                afirmacao: "AFIRMATIVA RESPOSTA 2"
+                texto: " Não, eu acho que não irão parar",
+                afirmacao: " Embora a preservação da natureza seja crucial, as enchentes tambem têm causas naturais, como chuvas intensas e "
             }
         ]
     },
