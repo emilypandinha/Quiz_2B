@@ -35,15 +35,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "PERGUNTA 3",
+        enunciado: "a urbanizacao desorganizada contribui para as enchentes no brasil?",
         alternativas: [
-            {
-                texto: "RESPOSTA 1",
-                afirmacao: "AFIRMATIVA RESPOSTA 1"
+            { 
+                texto: "sim, contribui",
+                afirmacao: "sim, a urbanizaçao desordenada tem relacao ditera com as enchentes do brasil. desde a segunda metade do seculo xx, o crescimento urbano sem planejamento adequado resultou em problemas com a impermeabilizacao do solo e a ocupacao indevida das margens do rios"
             },
             {
-                texto: "RESPOSTA 2",
-                afirmacao: "AFIRMATIVA RESPOSTA 2."
+                texto: "Nao, nao contribui",
+                afirmacao: "embora a preservacao da natureza seja crucial, as enhentes tambem tem causas naturais, como chuvas intensas e drerretimento da neve. Alem disso, a  urbanizacao desordenada e o desmatamnento podem agravar o problema, memsmo com esforços de preservaçao"
             }
         ]
     },
